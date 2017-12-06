@@ -1,0 +1,6 @@
+name- Aditya Anand
+email- adityaanand847@gmail.com
+phone- 7280074138
+branch- che
+gender- male
+assignment-1
